@@ -26,7 +26,7 @@ define( 'DB_NAME', 'next-wp' );
 define( 'DB_USER', 'pepe' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Micasa2010' );
+define( 'DB_PASSWORD', 'Micasa2010!' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
